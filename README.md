@@ -70,9 +70,8 @@ Me chamo Mayckon Jhonatas, tenho 27 anos e sou natural do Pará e moro no Góias
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
 
 <img 
       align="left" 
